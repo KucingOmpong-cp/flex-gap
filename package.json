@@ -1,0 +1,13 @@
+{
+  "name": "flex-gap-utility",
+  "version": "0.1.0",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "repository": "git@github.com:KucingOmpong-cp/flex-gap.git",
+  "author": "Manshur <manshurmuhammad2@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "postcss": "^8.4.33",
+    "tailwindcss": "^3.4.1"
+  }
+}
